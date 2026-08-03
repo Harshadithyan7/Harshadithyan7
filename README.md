@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Harsh 👋
 
-<!--
-**Harshadithyan7/Harshadithyan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FPGA | Edge AI | Embedded Systems**
 
-Here are some ideas to get you started:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshadithyan7&show_icons=true&theme=github_dark)](https://github.com/Harshadithyan7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshadithyan7&layout=compact&theme=github_dark)](https://github.com/Harshadithyan7)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harshadithyan7&theme=github-dark)](https://github.com/Harshadithyan7)
+
+## 🚀 Projects
+- **RoadSight** - Pothole detection, Edge Impulse, 91% accuracy
+- **RISC-V CPU** - 5-stage pipeline, Verilog to GDSII
+- **Gate-Level Simulator** - C++17, topological sort
+
+## 🛠 Tech Stack
+Verilog | FPGA | Python | C++ | Flutter | ESP32 | Edge Impulse
+
+## 📞 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/harshadithyanvp)
